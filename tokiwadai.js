@@ -1,0 +1,1 @@
+// This is a Comment, and well, start of Toki js (Imma Just call it "Toki")
